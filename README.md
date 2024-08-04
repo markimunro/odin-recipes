@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a simple website for recipes. This was my first project since I started learning web development with the odin project, and served as a way to finally put into practice what I have learned. I was able to mess around with absolute and relative links, absolute and relative paths to use images. I was also able to get used to formatting and using proper header sizes, bolding when needed, and unordered and ordered lists. It was also great for getting some more practice on what good commit messages are and trying to do so.
